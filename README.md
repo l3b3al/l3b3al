@@ -1,3 +1,5 @@
+<img alt="codingGif" src="https://github.com/l3b3al/l3b3al/blob/main/RanchoNight_16_Tree.png"/>
+
 ## 👨🏻‍💻 About Me
 
 <img alt="codingGif" src="https://github.com/l3b3al/l3b3al/blob/main/marginalia-a-person-sitting-in-front-of-a-computer-screen.gif" width="175" align="right"/>
