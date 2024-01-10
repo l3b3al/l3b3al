@@ -1,6 +1,8 @@
-## 👨🏻‍💻 About Me
+<div align="center">
+  <img alt="codingGif" src="https://github.com/l3b3al/l3b3al/blob/main/marginalia-a-person-sitting-in-front-of-a-computer-screen.gif" width="200"/>
+</div>
 
-<img alt="codingGif" src="https://github.com/l3b3al/l3b3al/blob/main/marginalia-a-person-sitting-in-front-of-a-computer-screen.gif" width="165" align="right"/>
+## 👨🏻‍💻 About Me
 
 * 🏫 I'm a junior Software Engineering student at KFUPM
 * 🌱 Interested in UI/UX design, and front-end development
