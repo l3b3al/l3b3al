@@ -1,4 +1,4 @@
-<img alt="codingGif" src="https://github.com/l3b3al/l3b3al/blob/main/RanchoNight_16_Tree.png"/>
+<img alt="banner" src="https://github.com/l3b3al/l3b3al/blob/main/RanchoNight.png"/>
 
 ## 👨🏻‍💻 About Me
 
