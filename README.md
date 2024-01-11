@@ -9,7 +9,7 @@
 * 🔭 Working on.. _BrewArtistry_
 * ☕ Home barista
 
-## 📥 Reach Out
+## 💬 Reach Out
 <div align="left">
   <a href="mailto:alabdulaal.alii@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
