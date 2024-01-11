@@ -28,3 +28,10 @@
 ## 💻 Tech Stack
 ![Tech Stack](https://skillicons.dev/icons?i=css,html,js,ts,tailwind,react,nextjs,astro,dart,flutter,py,java,figma,postman,supabase,vercel,vscode&perline=10)
 
+## 📊 Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=l3b3al&theme=github-dark-blue)
+![l3b3al's GitHub stats](https://github-readme-stats.vercel.app/api?username=l3b3al&show_icons=true&theme=github_dark)
+
+## 🙋🏻‍♂️ Took Part of
+[![KFUPMGym](https://github-readme-stats.vercel.app/api/pin/?username=HassanAlabdulal&repo=KFUPMGym&theme=github_dark)](https://github.com/HassanAlabdulal/KFUPMGym)
+[![InspireHub](https://github-readme-stats.vercel.app/api/pin/?username=Mi3liX9&repo=inspirehub&theme=github_dark)](https://github.com/Mi3liX9/inspirehub)
