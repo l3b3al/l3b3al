@@ -22,8 +22,7 @@
 </div>
 
 ### 💻 Tech Stack
-![Tech Stack](https://skillicons.dev/icons?i=figma,css,html,js,ts,tailwind,react,nextjs,astro,dart,flutter,postman,supabase,vercel,vscode)
+![Tech Stack](https://skillicons.dev/icons?i=figma,css,html,js,ts,tailwind,react,nextjs,astro,postman,supabase,vercel,vscode)
 
 ### 📊 Stats
-![l3b3al's GitHub stats](https://github-readme-stats.vercel.app/api?username=l3b3al&show_icons=true&theme=holi)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=l3b3al&theme=holi-theme)
