@@ -16,9 +16,6 @@
   <a href="https://twitter.com/l3b3al" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" alt="x logo"  />
   </a>
-  <a href="https://www.instagram.com/l3b3al/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="instagram logo"  />
-  </a>
 </div>
 
 ### 💻 Tech Stack
