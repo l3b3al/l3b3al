@@ -2,7 +2,7 @@
 * 🏫 I'm a junior Software Engineering student at KFUPM
 * 🌱 Interested in UI/UX design, and front-end development
 * 💡 Eager for delivering simple, precise, and clean designs
-* 🔭 Working on.. 
+* 🔭 Working on PreBrew
 * ☕ Home barista
 
 ### 💻 Tech Stack
